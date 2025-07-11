@@ -28,24 +28,7 @@ Provider: For state management (based on common Flutter patterns).
 
 
 
-📂 Project Structure (High-Level)
-.
-├── lib/                     # Dart source code
-│   ├── main.dart            # Main entry point of the app
-│   ├── models/              # Data models (e.g., Product, Sale)
-│   ├── providers/           # State management logic
-│   ├── screens/             # UI for different app screens
-│   └── services/            # Backend/database interaction services
-├── android/                 # Android specific project files
-├── ios/                     # iOS specific project files
-├── web/                     # Web specific project files
-├── linux/                   # Linux specific project files
-├── macos/                   # macOS specific project files
-├── windows/                 # Windows specific project files
-├── assets/                  # Images, fonts, etc. (if any)
-├── pubspec.yaml             # Project dependencies and metadata
-├── pubspec.lock             # Exact versions of dependencies
-└── README.md                # This file
+
 
 🤝 Contributing
 Contributions are welcome! If you have suggestions or want to improve the app, please open an issue or submit a pull request.
