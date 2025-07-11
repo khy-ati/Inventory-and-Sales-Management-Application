@@ -31,7 +31,9 @@ Provider: For state management (based on common Flutter patterns).
 
 
 🤝 Contributing
+
 Contributions are welcome! If you have suggestions or want to improve the app, please open an issue or submit a pull request.
 
 📄 License
+
 This project is licensed under the MIT License - see the LICENSE file for details. (If you have a LICENSE file, otherwise specify your chosen license or state "Proprietary").
