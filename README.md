@@ -4,6 +4,7 @@
 A comprehensive mobile application built with Flutter for efficient inventory and sales management. This app helps businesses track their inventory, manage sales transactions, and monitor stock levels.
 
 ✨ Features
+
 Product Management: Add, edit, and view product details, including stock levels.
 
 Sales Tracking: Record sales transactions and manage sales history.
@@ -15,6 +16,7 @@ User Authentication: Secure login for authorized users.
 
 
 🚀 Technologies Used
+
 Flutter: UI Toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
 
 Dart: The programming language used by Flutter.
