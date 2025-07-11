@@ -1,4 +1,4 @@
-# vendor_tracker_application
+# Inventory & Sales Management Application
 
 Inventory & Sales Management Application
 A comprehensive mobile application built with Flutter for efficient inventory and sales management. This app helps businesses track their inventory, manage sales transactions, and monitor stock levels.
